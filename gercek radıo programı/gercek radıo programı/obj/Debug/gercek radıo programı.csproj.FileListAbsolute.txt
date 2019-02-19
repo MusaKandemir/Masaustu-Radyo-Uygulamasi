@@ -1,0 +1,15 @@
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\bin\Debug\gercek radıo programı.exe.config
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\bin\Debug\gercek radıo programı.exe
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\bin\Debug\gercek radıo programı.pdb
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\bin\Debug\Interop.WMPLib.dll
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\bin\Debug\AxInterop.WMPLib.dll
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\Interop.WMPLib.dll
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\AxInterop.WMPLib.dll
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.csproj.ResolveComReference.cache
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek_radıo_programı.Form1.resources
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek_radıo_programı.Properties.Resources.resources
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.csproj.GenerateResource.Cache
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.exe
+c:\users\lenovo\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.pdb
+C:\Users\LENOVO\source\repos\gercek radıo programı\gercek radıo programı\obj\Debug\gercek radıo programı.csprojResolveAssemblyReference.cache
